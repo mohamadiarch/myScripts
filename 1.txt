@@ -1,0 +1,6 @@
+
+
+console.log("dsfsdf")
+for i"dfasdf"
+    print("dsfsdf")
+
